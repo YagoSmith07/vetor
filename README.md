@@ -3,5 +3,8 @@
 
  Atividade refrente aos exercicios de Vetor. 
 
- index.php → Página inicial que coleta dados do usuário.
+ index.php → Página inicial que coleta dados do usuário. <br>
  calcular.php → Página que recebe os dados do formulário e utiliza vetores para realizar operações.
+
+
+ 
