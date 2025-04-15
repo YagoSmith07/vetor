@@ -1,6 +1,7 @@
 <?php
-    $vetor = int[rand(0,99)];
-    $numero = $vetor[rand(0, count($vetor)-1)];
+   $n = $_POST ["g"];
+   $n = rand(0, 99);
 
-    echo " ".$numero." ";
+
+    echo("O numero aleatório é: ".$n);
 ?> 

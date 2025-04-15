@@ -6,7 +6,7 @@
     <title>Home Page</title>
 </head>
 <body>
-    <form method="POST" action="calcular.php">
-    <input type="submit" value="Calcular">
+    <form method="post"  action="calcular.php">
+    <input type="submit" name= "g" value="Calcular">
 </body>
 </html>
